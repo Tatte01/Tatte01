@@ -11,6 +11,12 @@
 [![HTML](https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=css)]()
 [![EJS](https://img.shields.io/badge/EJS-B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)]()
+[![Python](https://img.shields.io/badge/Python%203-3776AB.svg?style=for-the-badge&logo=python&logoColor=black)]()
+[![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)]()
+[![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white)]()
+[![Firebase](https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white)]()
+
+
 
 ## IDEs
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge)]()
@@ -19,6 +25,7 @@
 ## Applicasions and Specs
 [![ROG](https://img.shields.io/badge/ROG-FF0029.svg?style=for-the-badge&logo=republicofgamers)](https://rog.asus.com/laptops/rog-strix/rog-strix-g17-2023-series)
 [![OperaGX](https://img.shields.io/badge/OperaGX-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://www.opera.com/gx/gx-browser?utm_id=Cj0KCQjw8KrFBhDUARIsAMvIApbRPmQyYGCre7cO5LjZA3r8WjIjckeau-l90-nIkKDo-w7pzVPcQxkaAsgKEALw_wcB&utm_medium=pa&utm_source=google&utm_campaign=OGX_NOR_Search_EN_T1_Brand_V2&utm_content=635899671321&gad_source=1&gad_campaignid=18958835691&gclid=Cj0KCQjw8KrFBhDUARIsAMvIApbRPmQyYGCre7cO5LjZA3r8WjIjckeau-l90-nIkKDo-w7pzVPcQxkaAsgKEALw_wcB)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberrypi%205-A22846.svg?style=for-the-badge&logo=raspberrypi)](https://www.raspberrypi.com/products/raspberry-pi-5)
 
 ### Langue Breakdown in Gitgub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatte01&layout=compact)
