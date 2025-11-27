@@ -15,6 +15,7 @@
 [![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)]()
 [![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white)]()
 [![Firebase](https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white)]()
+[![Assembly](https://img.shields.io/badge/Assembly-FF6F00.svg?style=for-the-badge&logo=Assembly&logoColor=white)]()
 
 
 
