@@ -34,3 +34,8 @@
 Games that is currently up
 
 🎮 IDLE Game [IncrementalDescension](https://tatte01.github.io/IncrementalDescension)
+
+
+Tools currently up
+
+🔢 [Radix-Wizard](https://tatte01.github.io/Radix-Wizard)
