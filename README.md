@@ -29,7 +29,7 @@
 [![Raspberry Pi](https://img.shields.io/badge/Raspberrypi%205-A22846.svg?style=for-the-badge&logo=raspberrypi)](https://www.raspberrypi.com/products/raspberry-pi-5)
 
 ### Langue Breakdown in Gitgub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatte01&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tatte01&theme=github_dark)
 
 Games that is currently up
 
