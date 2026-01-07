@@ -28,7 +28,7 @@
 [![OperaGX](https://img.shields.io/badge/OperaGX-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://www.opera.com/gx/gx-browser?utm_id=Cj0KCQjw8KrFBhDUARIsAMvIApbRPmQyYGCre7cO5LjZA3r8WjIjckeau-l90-nIkKDo-w7pzVPcQxkaAsgKEALw_wcB&utm_medium=pa&utm_source=google&utm_campaign=OGX_NOR_Search_EN_T1_Brand_V2&utm_content=635899671321&gad_source=1&gad_campaignid=18958835691&gclid=Cj0KCQjw8KrFBhDUARIsAMvIApbRPmQyYGCre7cO5LjZA3r8WjIjckeau-l90-nIkKDo-w7pzVPcQxkaAsgKEALw_wcB)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberrypi%205-A22846.svg?style=for-the-badge&logo=raspberrypi)](https://www.raspberrypi.com/products/raspberry-pi-5)
 
-### Langue Breakdown in Gitgub
+### Langue Breakdown in Github
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tatte01&theme=github_dark)
 
 Games that is currently up
